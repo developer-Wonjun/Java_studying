@@ -12,7 +12,7 @@ public class OkJavaGoInHome {
 		
 		//Elevator call
 		Elevator myElevator = new Elevator(id);
-		//µ¥ÀÌÅÍÅ¸ÀÔ Elevator - Elevator°ú °ü·ÃÀÕ´Â°Í¸¸ ¿Ã ¼ö ÀÖ´Ù.
+		//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Å¸ï¿½ï¿½ Elevator - Elevatorï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Õ´Â°Í¸ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö´ï¿½.
 		myElevator.callForUp(1);
 		
 		//Security off
