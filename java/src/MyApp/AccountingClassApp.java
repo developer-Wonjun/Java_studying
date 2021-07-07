@@ -54,7 +54,7 @@ public class AccountingClassApp {
 //		Accounting.print();
 		
 		Accounting a1 = new Accounting();
-		a1.valueOfSupply = 10000.0;
+		a1.valueOfSupply = 10000.0; 
 		a1.vatRate = 0.1;
 		a1.expenseRate = 0.3;
 		a1.print();
