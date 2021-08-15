@@ -2,22 +2,22 @@
 
 <br>
 
-********이차원배열
+**이차원배열
 int[][] myNumber = {{1,2,3,4},{5,6,7}}
 
-********for 일정 범위만큼 할라면
+**for 일정 범위만큼 할라면
 
 for(int i =0; i<10; i++){
 
 }
 
-********for 배열 내 요소 빼올라면
+**for 배열 내 요소 빼올라면
 
 for(int i:arrayname){
 
 }
 
-********이차원 배열 요소 빼내기
+**이차원 배열 요소 빼내기
 for(int i=0; i<myNumber.lenth; i++){
 	for (int j=0; j<myNumber[i].lenth; j++){
 		System.out.println(myNumber[i][j]);
